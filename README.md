@@ -1,1 +1,8 @@
-# Sentiment-Analysis-of-Product-Reviews
+# Background
+
+Given the progress in technology and the widespread digitization, an extensive volume of information is now accessible. Within this vast pool of data, a substantial portion comprises textual content found on the internet. Businesses utilize this textual data to gain insights into customer sentiments regarding their company and products, enabling them to adjust and enhance their strategies accordingly.
+
+# Purpose
+
+This project aims to infer the sentiment of Amazon product reviews, by leveraging the GPT 3.5 model from the Open AI API.
+Each review will be classed as either "Positive", "Neutral" or "Negative".
