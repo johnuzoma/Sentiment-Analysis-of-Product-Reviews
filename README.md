@@ -7,5 +7,6 @@ Given the progress in technology and the widespread digitization, an extensive v
 This project aims to infer the sentiment of Amazon product reviews, by leveraging the GPT 3.5 model from the Open AI API.
 Each review will be classified as either "positive", "neutral" or "negative".
 
-### Dataset
-https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
+### Dataset: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
+
+All workings are in Colab notebook above named: **Sentiment_Analysis_of_Product_Reviews.ipynb**
