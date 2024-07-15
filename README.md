@@ -12,4 +12,4 @@ Given the progress in technology and the widespread digitization, an extensive v
 I applied the LLM on a sample of the data and the image below displays the results.
 <img width="550" alt="image" src="https://github.com/johnuzoma/Sentiment-Analysis-of-Product-Reviews/assets/18267074/b893d9ff-f48b-41ec-9ebe-5083cec44748">
 
-All workings are in IPython notebook above named: **Sentiment_Analysis_of_Product_Reviews.ipynb**
+All workings are in IPython notebook named [Sentiment_Analysis_of_Product_Reviews.ipynb](https://github.com/johnuzoma/Sentiment-Analysis-of-Product-Reviews/blob/main/Sentiment_Analysis_of_Product_Reviews.ipynb).
